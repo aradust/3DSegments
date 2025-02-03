@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/Visual studio/all/task_2segments_cmake/out/build/x64-debug/task_2segments_cmake/CMakeFiles/task_2segments_cmake.dir/embed.manifest"

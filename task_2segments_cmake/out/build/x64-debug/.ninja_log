@@ -1,0 +1,14 @@
+# ninja log v5
+86	1623	7513700251071198	task_2segments_cmake/CMakeFiles/task_2segments_cmake.dir/task_2segments_cmake.cpp.obj	b15a1dd4ddef354c
+1648	2467	7513700257593002	task_2segments_cmake/task_2segments_cmake.exe	9d7c92bf93ac751c
+56	95	0	clean	8c45b54705a541e8
+38	1433	7510269048304663	task_2segments_cmake/CMakeFiles/task_2segments_cmake.dir/Vector3D.cpp.obj	76fd1857cf9eee4d
+60	1648	7513700251345176	task_2segments_cmake/CMakeFiles/task_2segments_cmake.dir/func.cpp.obj	1856e95350083194
+39	1540	7510565988799942	task_2segments_cmake/CMakeFiles/task_2segments_cmake.dir/Class.cpp.obj	b050acf8b2013403
+14	1628	7513700251106199	task_2segments_cmake/CMakeFiles/task_2segments_cmake.dir/Class_2.cpp.obj	3ebdc1442bfd06a3
+36	1629	7513700251118984	task_2segments_cmake/CMakeFiles/task_2segments_cmake.dir/Class_3.cpp.obj	9d702fcbb890777c
+96	1506	7514534913536878	task_2segments_cmake/CMakeFiles/task_2segments_cmake.dir/task_2segments_cmake.cpp.obj	b15a1dd4ddef354c
+58	1513	7514534913644953	task_2segments_cmake/CMakeFiles/task_2segments_cmake.dir/Class_2.cpp.obj	3ebdc1442bfd06a3
+71	1518	7514534913681370	task_2segments_cmake/CMakeFiles/task_2segments_cmake.dir/Class_3.cpp.obj	9d702fcbb890777c
+83	1530	7514534913801465	task_2segments_cmake/CMakeFiles/task_2segments_cmake.dir/func.cpp.obj	1856e95350083194
+1530	1847	7514534916497770	task_2segments_cmake/task_2segments_cmake.exe	9d7c92bf93ac751c

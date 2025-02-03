@@ -1,0 +1,21 @@
+# ninja log v5
+4	101	7510321113109825	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	8a2730cc02d85755
+4	101	7510321113109825	D:/Visual studio/all/task_2segments_cmake/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	8a2730cc02d85755
+102	4696	7510321158843424	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	64fa6cb9c3d685a9
+102	4696	7510321158843424	D:/Visual studio/all/task_2segments_cmake/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	64fa6cb9c3d685a9
+4696	4928	7510321161349113	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	3fcee9b57e3ab8f
+4696	4928	7510321161349113	D:/Visual studio/all/task_2segments_cmake/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	3fcee9b57e3ab8f
+4928	5033	7510321162326402	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	b443e34ab02a5fd7
+4928	5033	7510321162326402	D:/Visual studio/all/task_2segments_cmake/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	b443e34ab02a5fd7
+5033	5266	7510321164534907	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	3f66bd505ec15c70
+5033	5266	7510321164534907	D:/Visual studio/all/task_2segments_cmake/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	3f66bd505ec15c70
+5266	5475	7510321166653900	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	42f13b942aa054c2
+5266	5475	7510321166653900	D:/Visual studio/all/task_2segments_cmake/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	42f13b942aa054c2
+5475	5688	7510321168811397	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	99a3937f0167eb59
+5475	5688	7510321168811397	D:/Visual studio/all/task_2segments_cmake/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	99a3937f0167eb59
+5688	5899	7510321170970056	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	f4f9a1e74da32952
+5688	5899	7510321170970056	D:/Visual studio/all/task_2segments_cmake/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	f4f9a1e74da32952
+5899	6190	7510321173915723	CMakeFiles/googletest-populate-complete	40143fba77196c43
+5899	6190	7510321173915723	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	40143fba77196c43
+5899	6190	7510321173915723	D:/Visual studio/all/task_2segments_cmake/out/build/x64-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	40143fba77196c43
+5899	6190	7510321173915723	D:/Visual studio/all/task_2segments_cmake/out/build/x64-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	40143fba77196c43

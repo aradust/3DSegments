@@ -1,0 +1,5 @@
+D:/Visual studio/all/task_2segments_cmake/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/Visual studio/all/task_2segments_cmake/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/Visual studio/all/task_2segments_cmake/out/build/x64-debug/task_2segments_cmake/CMakeFiles/task_2segments_cmake.dir
+D:/Visual studio/all/task_2segments_cmake/out/build/x64-debug/task_2segments_cmake/CMakeFiles/edit_cache.dir
+D:/Visual studio/all/task_2segments_cmake/out/build/x64-debug/task_2segments_cmake/CMakeFiles/rebuild_cache.dir
